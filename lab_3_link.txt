@@ -1,0 +1,3 @@
+Name : Weiang Wang 
+Partner: Garrett Hite
+Link : https://github.com/weiqiang-Wang/lab_3.git
